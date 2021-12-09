@@ -13,5 +13,8 @@
   ],
   "author": "pxc",
   "license": "GNU",
-  "git repository":"https://github.com/pengxiaochun16/NodejsMongodbLog"
+  "git repository": "https://github.com/pengxiaochun16/NodejsMongodbLog",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
